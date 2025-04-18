@@ -1,8 +1,24 @@
 :root {
   --main-color: rgb(20, 20, 20);
+  background-color: black;
 }
 
 body {
+  background-color: black;
+}
+
+header {
   background-color: var(--main-color);
   color: #fcfcfc;
+}
+nav img {
+  width: 100% \9;
+}
+main {
+  background-color: var(--main-color);
+  color: #fcfcfc;
+}
+footer {
+  background-color: var(--main-color);
+  color: #5b5c5d;
 }
